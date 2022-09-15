@@ -71,7 +71,7 @@ section.sobre{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: small;
-    padding-top: 20px;
+    padding-top: 150px;
     padding-left: 150px;
     padding-bottom: 10px;
     width: 100%;
@@ -93,23 +93,46 @@ section.sobre{
     padding-left: 330px;
 }
 
+.gif1{
+ padding-left: 30px;
+}
+
 /*--------------------------------------  FIM EDICAO HOME ----------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------------------*/
 /*--------------------------------------  INICIO FORMAÇÃO ----------------------------------------------------*/
 
+.gif2{
+padding-left: 200px;
+}
 
-/*--------------------------------------  FIM EDICAO formação-------------------------------------------------*/
+/*--------------------------------------  FIM EDICAO FORMACAO-------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------------------*/
-/*--------------------------------------  INICIO experiencias-------------------------------------------------*/
-
+/*--------------------------------------  INICIO EXPERIENCIAS-------------------------------------------------*/
 .tabela{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: small;
-    padding-top: 50px;
+    padding-top: 150px;
     padding-left: 0px;
     padding-bottom: 10px;
     width: 67%;
     text-align: center;
 }
+/*--------------------------------------  FIM EDICAO EXPERIENCIAS---------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------  INICIO APERFEICOAMENTO----------------------------------------------*/
+.aperfeicoamento{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: small;
+    padding-top: 120px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    width: 100%;
+    text-align: left;  
+}
 
+.gif3{
+    padding-left: 180px;
+}
+/*=============================================================================================================*/
