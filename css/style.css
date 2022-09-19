@@ -63,15 +63,13 @@ section.sobre{
     width: 100%;
     text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: medium;
-    font-weight: bold;
 }
 
 .apresentacao{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: small;
-    padding-top: 150px;
+    padding-top: 10px;
     padding-left: 150px;
     padding-bottom: 10px;
     width: 100%;
@@ -82,7 +80,7 @@ section.sobre{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: small;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-left: 00px;
     width: 100%; 
     font-weight: bold; 
@@ -94,12 +92,22 @@ section.sobre{
 }
 
 .gif1{
- padding-left: 30px;
+ padding-left: 0px;
 }
 
 /*--------------------------------------  FIM EDICAO HOME ----------------------------------------------------*/
 /*------------------------------------------------------------------------------------------------------------*/
 /*--------------------------------------  INICIO FORMAÇÃO ----------------------------------------------------*/
+
+.formacao{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    padding-top: 10px;
+    padding-left: 150px;
+    padding-bottom: 00px;
+    width: 100%;
+    text-align: left;  
+}
 
 .gif2{
 padding-left: 200px;
